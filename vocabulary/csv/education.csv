@@ -1,0 +1,241 @@
+level,pos,en,fr,de,es,it,pt
+1,adjective,scientific,scientifique,wissenschaftlich,científico,scientifico,científico
+1,noun,book,livre,Buch,libro,libro,livro
+1,noun,class,classe,Klasse,clase,classe,classe
+1,noun,college,université,Hochschule,colegio,college,universidade
+1,noun,course,cours,Kurs,curso,corso,curso
+1,noun,dictionary,dictionnaire,Wörterbuch,diccionario,dizionario,dicionário
+1,noun,homework,devoirs,Hausaufgaben,tarea,compiti,tarefa
+1,noun,lesson,leçon,Unterricht,lección,lezione,lição
+1,noun,student,étudiant,Schüler,estudiante,studente,estudante
+1,noun,subject,matière,Fach,asignatura,materia,disciplina
+1,noun,teacher,professeur,Lehrer,profesor,insegnante,professor
+1,noun,test,test,Prüfung,prueba,test,teste
+1,noun,university,université,Universität,universidad,università,universidade
+1,noun,word,mot,Wort,palabra,parola,palavra
+1,verb,do,faire,tun,hacer,fare,fazer
+1,verb,learn,apprendre,lernen,aprender,imparare,aprender
+1,verb,write,écrire,schreiben,escribere,scrivere,escrever
+2,noun,blackboard,tableau noir,Tafel,pizarra,lavagna,quadro negro
+2,noun,chemistry,chimie,Chemie,química,chimica,química
+2,noun,classmate,camarade de classe,Klassenkamerad,compañero de clase,compagno di classe,colega de classe
+2,noun,diploma,diplôme,Diplom,diploma,diploma,diploma
+2,noun,exam,examen,Prüfung,examen,esame,exame
+2,noun,examination,examen,Prüfung,examen,esame,exame
+2,noun,exercise,exercice,Übung,ejercicio,esercizio,exercício
+2,noun,highschool,lycée,Gymnasium,colegio,liceo,escola secundária
+2,noun,history,histoire,Geschichte,historia,storia,história
+2,noun,letter,lettre,Brief,carta,lettera,carta
+2,noun,mark,note,Note,nota,voto,nota
+2,noun,math,maths,Mathe,matemáticas,matematica,matemática
+2,noun,maths,maths,Mathe,matemáticas,matematica,matemática
+2,noun,paper,papier,Papier,papel,carta,papel
+2,noun,pencil,crayon,Bleistift,lápiz,matita,lápis
+2,noun,physics,physique,Physik,física,fisica,física
+2,noun,project,projet,Projekt,proyecto,progetto,projeto
+2,noun,pupil,élève,Schüler,alumno,alunno,aluno
+2,noun,research,recherche,Forschung,investigación,ricerca,pesquisa
+2,noun,school,école,Schule,escuela,scuola,escola
+2,noun,schoolchild,écolier,Schulkind,escolar,scolaro,estudante
+2,noun,sentence,phrase,Satz,frase,frase,frase
+2,noun,term,terme,Begriff,término,termine,termo
+2,noun,timetable,emploi du temps,Stundenplan,horario,orario,horário
+2,noun,year,année,Jahr,año,anno,ano
+2,verb,apply,appliquer,anwenden,aplicar,applicare,aplicar
+2,verb,fail,échouer,durchfallen,suspender,fallire,reprovar
+2,verb,pass,réussir,bestehen,aprobar,passare,passar
+2,verb,revise,réviser,überarbeiten,revisar,rivedere,revisar
+2,verb,teach,enseigner,lehren,enseñare,insegnare,ensinar
+3,adjective,elementary,élémentaire,grundlegend,elemental,elementare,elementar
+3,adjective,secondary,secondaire,weiterführend,secundario,secondario,secundário
+3,noun,agriculture,agriculture,Landwirtschaft,agricultura,agricoltura,agricultura
+3,noun,aid,aide,Hilfe,ayuda,aiuto,ajuda
+3,noun,art,art,Kunst,arte,arte,arte
+3,noun,article,article,Artikel,artículo,articolo,artigo
+3,noun,assessment,évaluation,Bewertung,evaluación,valutazione,avaliação
+3,noun,candidate,candidat,Kandidat,candidato,candidato,candidato
+3,noun,career,carrière,Karriere,carrera,carriera,carreira
+3,noun,community,communauté,Gemeinschaft,comunidad,comunità,comunidade
+3,noun,curriculum,programme,Lehrplan,currículo,curriculo,currículo
+3,noun,degree,diplôme,Abschluss,título,laurea,diploma
+3,noun,education,éducation,Bildung,educazione,educazione,educação
+3,noun,essay,dissertation,Aufsatz,ensayo,saggio,ensaio
+3,noun,examiner,examinateur,Prüfer,examinador,esaminatore,examinador
+3,noun,exchange,échange,Austausch,intercambio,scambio,intercâmbio
+3,noun,form,formulaire,Formular,formulario,modulo,formulário
+3,noun,geography,géographie,Geografie,geografía,geografia,geografia
+3,noun,grade,note,Note,nota,voto,nota
+3,noun,gym,gymnase,Turnhalle,gimnasio,palestra,ginásio
+3,noun,library,bibliothèque,Bibliothek,biblioteca,biblioteca,biblioteca
+3,noun,major,spécialisation,Hauptfach,especialización,specializzazione,especialização
+3,noun,note,note,Notiz,nota,nota,nota
+3,noun,pen,stylo,Stift,pluma,penna,caneta
+3,noun,period,période,Periode,período,periodo,período
+3,noun,phrase,phrase,Phrase,frase,frase,frase
+3,noun,place,lieu,Ort,lugar,luogo,lugar
+3,noun,poem,poème,Gedicht,poema,poesia,poema
+3,noun,primary school,école primaire,Grundschule,escuela primaria,scuola elementare,escola primária
+3,noun,punctuation,ponctuation,Zeichensetzung,puntuación,punteggiatura,pontuação
+3,noun,qualification,qualification,Qualifikation,calificación,qualifica,qualificação
+3,noun,quiz,quiz,Quiz,cuestionario,quiz,questionário
+3,noun,reference,référence,Referenz,referencia,riferimento,referência
+3,noun,revision,révision,Überarbeitung,revisión,revisione,revisão
+3,noun,science,science,Wissenschaft,ciencia,scienza,ciência
+3,noun,secondary school,école secondaire,weiterführende Schule,escuela secundaria,scuola secondaria,escola secundária
+3,noun,skill,compétence,Fähigkeit,habilidad,abilità,habilidade
+3,noun,spelling,orthographe,Rechtschreibung,ortografía,ortografia,ortografia
+3,noun,summer,été,Sommer,verano,estate,verão
+3,noun,topic,sujet,Thema,tema,argomento,tema
+3,noun,vocabulary,vocabulaire,Wortschatz,vocabulario,vocabolario,vocabulário
+3,noun,writing,écriture,Schreiben,escritura,scrittura,escrita
+3,verb,attend,assister,teilnehmen,asistir,partecipare,assistir
+3,verb,complete,compléter,vervollständigen,completar,completare,completar
+3,verb,focus,concentrieren,fokussieren,enfocare,concentrarsi,concentrar
+3,verb,know,savoir,wissen,saber,sapere,saber
+3,verb,prepare,préparer,vorbereiten,preparar,preparare,preparar
+3,verb,quote,citer,zitieren,citare,citare,citar
+3,verb,refer,référencer,verweisen,referir,riferire,referir
+3,verb,spell,épeler,buchstabieren,deletrear,compitare,soletrar
+3,verb,take,prendre,nehmen,tomar,prendere,tomar
+4,adjective,academic,académique,akademisch,académico,accademico,acadêmico
+4,adjective,educational,éducatif,pädagogisch,educativo,educativo,educacional
+4,noun,achievement,réalisation,Leistung,logro,realizzazione,realização
+4,noun,admission,admission,Zulassung,admisión,ammissione,admissão
+4,noun,assignment,devoir,Aufgabe,tarea,compito,tarefa
+4,noun,author,auteur,Autor,autor,autore,autor
+4,noun,branch,branche,Zweig,rama,ramo,ramo
+4,noun,campus,campus,Campus,campus,campus,campus
+4,noun,classroom,salle de classe,Klassenzimmer,aula di classe,aula,sala de aula
+4,noun,communication,communication,Kommunikation,comunicación,comunicazione,comunicação
+4,noun,credit,crédit,Kredit,crédito,credito,crédito
+4,noun,district,district,Bezirk,distrito,distretto,distrito
+4,noun,field,domaine,Feld,campo,campo,campo
+4,noun,graduate,diplômé,Absolvent,graduado,laureato,graduado
+4,noun,grammar,grammaire,Grammatik,gramática,grammatica,gramática
+4,noun,institution,institution,Institution,institución,istituzione,instituição
+4,noun,internship,stage,Praktikum,pasantía,tirocinio,estágio
+4,noun,introduction,introduction,Einführung,introduzione,introduzione,introdução
+4,noun,journalism,journalisme,Journalismus,periodismo,giornalismo,jornalismo
+4,noun,kindergarten,jardin d'enfants,Kindergarten,jardín de infancia,scuola materna,jardim de infância
+4,noun,learner,apprenant,Lernender,aprendiz,apprendista,aprendiz
+4,noun,learning,apprentissage,Lernen,aprendizaje,apprendimento,aprendizagem
+4,noun,novel,roman,Roman,novela,romanzo,romance
+4,noun,nursery,crèche,Kinderzimmer,guardería,asilo nido,berçário
+4,noun,nursing,soins infirmiers,Pflege,enfermería,infermieristica,enfermagem
+4,noun,paragraph,paragraphe,Absatz,párrafo,paragrafo,parágrafo
+4,noun,pass,passer,Pass,aprobado,passare,aprovação
+4,noun,philosophy,philosophie,Philosophie,filosofía,filosofia,filosofia
+4,noun,professor,professeur,Professor,profesor,professore,professor
+4,noun,pronoun,pronom,Pronomen,pronombre,pronome,pronome
+4,noun,pronunciation,prononciation,Aussprache,pronunciación,pronuncia,pronúncia
+4,noun,reading,lecture,Lesen,lectura,lettura,leitura
+4,noun,role,rôle,Rolle,rol,ruolo,papel
+4,noun,semester,semestre,Semester,semestre,semestre,semestre
+4,noun,seminar,séminaire,Seminar,seminario,seminário,seminário
+4,noun,tense,temps,Zeitform,tiempo,tempo,tempo
+4,noun,tuition,frais de scolarité,Studiengebühren,matrícula,tasse,taxa de matrícula
+4,noun,undergraduate,étudiant de premier cycle,Student im Grundstudium,estudiante de pregrado,studente universitario,estudante de graduação
+4,noun,verb,verbe,Verb,verbo,verbo,verbo
+4,noun,vowel,voyelle,Vokal,vocal,vocale,vogal
+4,noun,writer,écrivain,Schriftsteller,escritor,scrittore,escritor
+4,verb,graduate,diplômer,absolvieren,graduarse,laurearsi,formar-se
+4,verb,master,maîtriser,meistern,dominar,padroneggiare,dominar
+4,verb,publish,publier,veröffentlichen,publicar,pubblicare,publicar
+4,verb,review,revue,überprüfen,revisar,rivedere,revisar
+4,verb,study,étudieren,studieren,estudiar,studiare,estudar
+5,adjective,tertiary,tertiaire,tertiär,terciario,terziario,terciário
+5,adjective,well-educated,bien éduqué,gut ausgebildet,bien educado,ben istruito,bem educado
+5,adjective,well-qualified,bien qualifié,gut qualifiziert,bien calificado,ben qualificato,bem qualificado
+5,noun,adjective,adjectif,Adjektiv,adjetivo,aggettivo,adjetivo
+5,noun,bachelor,célibataire,Bachelor,soltero,scapolo,solteiro
+5,noun,category,catégorie,Kategorie,categoría,categoria,categoria
+5,noun,challenge,défi,Herausforderung,desafío,sfida,desafio
+5,noun,counselor,conseiller,Berater,consejero,consigliere,conselheiro
+5,noun,disability,handicap,Behinderung,discapacità,disabilità,deficiência
+5,noun,dissertation,dissertation,Dissertation,tesis,tesi,tese
+5,noun,freshman,étudiant de première année,Erstsemester,estudiante de primer año,matricola,calouro
+5,noun,graduation,graduation,Abschlussfeier,graduación,laurea,formação
+5,noun,homeschool,école à la maison,Hausunterricht,educación en casa,scuola a casa,educação domiciliar
+5,noun,importance,importance,Bedeutung,importancia,importanza,importância
+5,noun,lecture,conférence,Vorlesung,conferencia,conferenza,conferência
+5,noun,literature,littérature,Literatur,literatura,letteratura,literatura
+5,noun,noun,nom,Nomen,sustantivo,nome,substantivo
+5,noun,preparation,préparation,Vorbereitung,preparación,preparazione,preparação
+5,noun,presentation,présentation,Präsentation,presentación,presentazione,apresentação
+5,noun,profession,profession,Profession,profesión,professione,profissão
+5,noun,psychology,psychologie,Psychologie,psicologia,psicologia,psicologia
+5,noun,reader,lecteur,Leser,lector,lettore,leitor
+5,noun,rhyme,rime,Reim,rima,rima,rima
+5,noun,scholar,érudit,Gelehrter,erudito,studioso,erudito
+5,noun,scholarship,bourse,Stipendium,beca,borsa di studio,bolsa de estudos
+5,noun,summary,résumé,Zusammenfassung,resumen,riassunto,resumo
+5,noun,textbook,manuel,Lehrbuch,libro de texto,libro di testo,livro didático
+5,noun,thesis,thèse,These,tesis,tesi,tese
+5,noun,tutor,tuteur,Tutor,tutor,tutore,tutor
+5,noun,workshop,atelier,Workshop,taller,laboratorio,oficina
+5,verb,achieve,accomplir,erreichen,lograr,raggiungere,alcançar
+5,verb,cite,citer,zitieren,citar,citare,citar
+5,verb,introduce,introduire,einführen,introducir,introdurre,introduzir
+5,verb,pursue,poursuivre,verfolgen,perseguir,perseguire,perseguir
+6,adjective,economic,économique,wirtschaftlich,económico,economico,econômico
+6,adjective,residential,résidentiel,wohnhaft,residencial,residenziale,residencial
+6,noun,abbreviation,abréviation,Abkürzung,abreviatura,abbreviazione,abreviação
+6,noun,acronym,acronyme,Akronym,acrónimo,acronimo,acrônimo
+6,noun,alphabet,alphabet,Alphabet,alfabeto,alfabeto,alfabeto
+6,noun,applicant,candidat,Bewerber,solicitante,candidato,candidato
+6,noun,architecture,architecture,Architektur,arquitectura,architettura,arquitetura
+6,noun,biography,biographie,Biografie,biografía,biografia,biografia
+6,noun,certification,certification,Zertifizierung,certificación,certificazione,certificação
+6,noun,commerce,commerce,Handel,comercio,commercio,comércio
+6,noun,correspondence,correspondence,Korrespondenz,correspondencia,corrispondenza,correspondência
+6,noun,criterion,critère,Kriterium,criterio,criterio,critério
+6,noun,deadline,date limite,Frist,fecha límite,scadenza,prazo final
+6,noun,disadvantage,désavantage,Nachteil,desventaja,svantaggio,desvantagem
+6,noun,discipline,discipline,Disziplin,disciplina,disciplina,disciplina
+6,noun,dorm,dortoir,Wohnheim,residencia universitaria,dormitorio,alojamento estudantil
+6,noun,educator,éducateur,Pädagoge,educador,educatore,educador
+6,noun,emphasis,accent,Betonung,énfasis,enfasi,ênfase
+6,noun,entrance,entrée,Eingang,entrada,entrata,entrada
+6,noun,faculty,faculté,Fakultät,facultad,facoltà,faculdade
+6,noun,fashion,mode,Mode,moda,moda,moda
+6,noun,grader,correcteur,Korrektor,calificador,correttore,classificador
+6,noun,homeschooling,enseignement à domicile,Hausunterricht,educación en casa,scuola a casa,educação domiciliar
+6,noun,institute,institut,Institut,instituto,istituto,instituto
+6,noun,instructor,instructeur,Instrukteur,instructor,istruttore,instrutor
+6,noun,inventor,inventeur,Erfinder,inventor,inventore,inventor
+6,noun,journal,journal,Zeitschrift,revista,giornale,revista
+6,noun,librarian,bibliothécaire,Bibliothekar,bibliotecario,bibliotecario,bibliotecário
+6,noun,metaphor,métaphore,Metapher,metáfora,metafora,metáfora
+6,noun,orientation,orientation,Orientierung,orientación,orientamento,orientação
+6,noun,outline,contour,Umriss,esquema,contorno,esboço
+6,noun,placement,placement,Platzierung,ubicación,collocamento,colocação
+6,noun,plural,pluriel,Plural,plural,plurale,plural
+6,noun,poet,poète,Dichter,poeta,poeta,poeta
+6,noun,poetry,poésie,Poesie,poesía,poesia,poesia
+6,noun,prep,préparation,Vorbereitung,preparación,preparazione,preparação
+6,noun,principal,principal,Schulleiter,principal,preside,diretor
+6,noun,publication,publication,Veröffentlichung,publicación,pubblicazione,publicação
+6,noun,puzzle,casse-tête,Puzzle,rompecabezas,rompicapo,quebra-cabeça
+6,noun,quotation,citation,Zitat,citação,citazione,citação
+6,noun,recognition,reconnaissance,Anerkennung,reconocimiento,riconoscimento,reconhecimento
+6,noun,reputation,réputation,Ruf,reputación,reputazione,reputação
+6,noun,schooling,scolarisation,Schulbildung,escolarización,scolarizzazione,escolarização
+6,noun,scope,portée,Umfang,alcance,portata,escopo
+6,noun,slogan,slogan,Slogan,eslogan,slogan,slogan
+6,noun,syllable,syllabe,Silbe,sílaba,sillaba,sílaba
+6,noun,syllabus,programme,Lehrplan,plan de estudios,piano di studi,plano de estudos
+6,noun,synonym,synonyme,Synonym,sinónimo,sinonimo,sinônimo
+6,noun,transcript,transcript,Transkript,transcripción,trascrizione,transcrição
+6,noun,tutoring,tutorat,Nachhilfe,tutoría,ripetizioni,explicações
+6,noun,yearbook,annuaire,Jahrbuch,anuario,annuario,anuário
+6,verb,accredit,accréditer,akkreditieren,acreditar,accreditare,acreditar
+6,verb,consolidate,consolider,konsolidieren,consolidar,consolidare,consolidar
+6,verb,contrast,contraster,kontrastieren,contrastar,contrastare,contrastar
+6,verb,distract,distraire,ablenken,distraer,distrarre,distrair
+6,verb,enrol,inscrire,einschreiben,inscribir,iscrivere,inscrever
+6,verb,enroll,inscrire,einschreiben,inscribir,iscrivere,inscrever
+6,verb,explore,explorer,erkunden,explorar,esplorare,explorar
+6,verb,illustrate,illustrer,illustrieren,ilustrar,illustrare,ilustrar
+6,verb,instruct,instruire,unterweisen,instruir,istruire,instruir
+6,verb,memorize,mémoriser,auswendig lernen,memorizar,memorizzare,memorizar
+6,verb,succeed,réussir,erfolgreich sein,tener éxito,avere successo,ter sucesso

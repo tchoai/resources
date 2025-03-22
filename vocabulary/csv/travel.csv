@@ -1,0 +1,411 @@
+level,pos,en,fr,de,es,it,pt
+1,adjective,cold,froid,kalt,frío,freddo,frio
+1,adjective,warm,chaud,warm,cálido,caldo,quente
+1,noun,beach,plage,Strand,playa,spiaggia,praia
+1,noun,boat,bateau,Boot,barco,barca,barco
+1,noun,bus,bus,Bus,autobús,autobus,ônibus
+1,noun,car,voiture,Auto,coche,macchina,carro
+1,noun,flower,fleur,Blume,flor,fiore,flor
+1,noun,grass,herbe,Gras,hierba,erba,grama
+1,noun,holiday,vacances,Urlaub,vacaciones,vacanza,feriado
+1,noun,park,parc,Park,parque,parco,parque
+1,noun,place,lieu,Ort,lugar,luogo,lugar
+1,noun,plane,avion,Flugzeug,avión,aereo,avião
+1,noun,plant,plante,Pflanze,planta,pianta,planta
+1,noun,rain,pluie,Regen,lluvia,pioggia,chuva
+1,noun,river,rivière,Fluss,río,fiume,rio
+1,noun,road,route,Straße,carretera,strada,estrada
+1,noun,sea,mer,Meer,mar,mare,mar
+1,noun,snow,neige,Schnee,nieve,neve,neve
+1,noun,stop,arrêt,Halt,parada,fermata,parada
+1,noun,street,rue,Straße,calle,strada,rua
+1,noun,summer,été,Sommer,verano,estate,verão
+1,noun,sun,soleil,Sonne,sol,sole,sole
+1,noun,taxi,taxi,Taxi,taxi,taxi,táxi
+1,noun,town,ville,Stadt,pueblo,città,cidade
+1,noun,train,train,Zug,tren,treno,trem
+1,noun,tree,arbre,Baum,árbol,albero,árvore
+1,noun,village,village,Dorf,pueblo,paese,vila
+1,noun,weather,temps,Wetter,tiempo,tempo,tempo
+1,noun,wind,vent,Wind,viento,vento,vento
+1,noun,winter,hiver,Winter,invierno,inverno,inverno
+1,noun,world,monde,Welt,mundo,mondo,mundo
+1,verb,catch,attraper,fangen,atrapar,afferrare,pegar
+2,adjective,cloudy,nuageux,wolkig,nublado,nuvoloso,nublado
+2,adjective,dry,sec,trocken,secco,secco,seco
+2,adjective,foggy,brumeux,nebligoso,brumoso,nebbioso,nevoento
+2,adjective,gold,or,Gold,oro,oro,ouro
+2,adjective,golden,doré,golden,dorado,dorato,dourado
+2,adjective,sunny,ensoleillé,sonnig,soleado,soleggiado,ensolarado
+2,adjective,wet,mouillé,nass,mojado,bagnado,molhado
+2,adjective,windy,ventoso,windig,ventoso,ventoso,ventoso
+2,noun,adventure,aventure,Abenteuer,aventura,avventura,aventura
+2,noun,aeroplane,avion,Flugzeug,avión,aereo,avião
+2,noun,air,air,Luft,aire,aria,ar
+2,noun,airport,aéroport,Flughafen,aeropuerto,aeroporto,aeroporto
+2,noun,area,zone,Gebiet,área,area,área
+2,noun,autumn,automne,Herbst,otoño,autunno,outono
+2,noun,bicycle,vélo,Fahrrad,bicicleta,bicicletta,bicicleta
+2,noun,bike,vélo,Fahrrad,bicicleta,bicicletta,bicicleta
+2,noun,bus station,gare routière,Busbahnhof,estación de autobuses,stazione degli autobus,estação de ônibus
+2,noun,bus stop,arrêt de bus,Bushaltestelle,parada de autobús,fermata dell'autobus,paragem de autocarro
+2,noun,camping,camping,Camping,camping,campeggio,camping
+2,noun,car park,parking,Parkplatz,aparcamiento,parcheggio,estacionamento
+2,noun,case,valise,Koffer,maleta,valigia,maleta
+2,noun,coach,car,Reisebus,autocar,autobus,autocarro
+2,noun,countryside,campagne,Landschaft,campo,campagna,campo
+2,noun,desert,désert,Wüste,desierto,deserto,deserto
+2,noun,driving licence,permis de conduire,Führerschein,carnet de conducir,patente di guida,carta de condução
+2,noun,exit,sortie,Ausgang,salida,uscita,saída
+2,noun,field,champ,Feld,campo,campo,campo
+2,noun,flight,vol,Flug,vuelo,volo,voo
+2,noun,fog,brouillard,Nebel,niebla,nebbia,neblina
+2,noun,forest,forêt,Wald,bosque,foresta,floresta
+2,noun,geography,géographie,Geografie,geografía,geografia,geografia
+2,noun,gold,or,Gold,oro,oro,ouro
+2,noun,guest,invité,Gast,invitado,ospite,convidado
+2,noun,guidebook,guide,Reiseführer,guía turística,guida turistica,guia turístico
+2,noun,helicopter,hélicoptère,Helikopter,helicóptero,elicottero,helicóptero
+2,noun,hill,colline,Hügel,colina,collina,colina
+2,noun,ice,glace,Eis,hielo,ghiaccio,gelo
+2,noun,island,île,Insel,isla,isola,ilha
+2,noun,journey,voyage,Reise,viaje,viaggio,viagem
+2,noun,lake,lac,See,lago,lago,lago
+2,noun,lift,ascenseur,Aufzug,ascensor,ascensore,elevador
+2,noun,luggage,bagage,Gepäck,equipaje,bagaglio,bagagem
+2,noun,map,carte,Karte,mapa,mappa,mapa
+2,noun,motorbike,moto,Motorrad,motocicleta,motocicletta,motocicleta
+2,noun,motorway,autoroute,Autobahn,autopista,autostrada,autoestrada
+2,noun,mountain,montagne,Berg,montaña,montagna,montanha
+2,noun,nature,nature,Natur,naturaleza,natura,natureza
+2,noun,passenger,passagier,Passagier,pasajero,passeggero,passageiro
+2,noun,petrol,essence,Benzin,gasolina,benzina,gasolina
+2,noun,petrol station,station-service,Tankstelle,gasolinera,stazione di servizio,posto de gasolina
+2,noun,platform,quai,Bahnsteig,andén,binario,plataforma
+2,noun,postcard,carte postale,Postkarte,postal,cartolina,cartão postal
+2,noun,railway,chemin de fer,Eisenbahn,ferrocarril,ferrovia,ferrovia
+2,noun,roundabout,rond-point,Kreisverkehr,rotonda,rotonda,rotatória
+2,noun,scooter,scooter,Roller,scooter,scooter,scooter
+2,noun,ship,bateau,Schiff,barco,nave,navio
+2,noun,sightseeing,tourisme,Sehenswürdigkeiten,turismo,turismo,turismo
+2,noun,silver,argent,Silber,plata,argento,prata
+2,noun,sky,ciel,Himmel,cielo,cielo,céu
+2,noun,spring,printemps,Frühling,primavera,primavera,primavera
+2,noun,stamp,timbre,Briefmarke,sello,francobollo,selo
+2,noun,star,étoile,Stern,estrella,stella,estrela
+2,noun,storm,tempête,Sturm,tormenta,tempesta,tempestade
+2,noun,suitcase,valise,Koffer,maleta,valigia,maleta
+2,noun,thunderstorm,orage,Gewitter,tormenta,temporale,tempestade
+2,noun,tour,tour,Tour,recorrido,giro,passeio
+2,noun,tourist,touriste,Tourist,turista,turista,turista
+2,noun,traffic light,feu de circulation,Ampel,semáforo,semaforo,semáforo
+2,noun,tram,tramway,Straßenbahn,tranvía,tram,tram
+2,noun,trip,voyage,Reise,viaje,viaggio,viagem
+2,noun,tyre,pneu,Reifen,neumático,pneumatico,pneu
+2,noun,view,vue,Aussicht,vista,veduta,vista
+2,noun,visitor,visiteur,Besucher,visitante,visitatore,visitante
+2,noun,water,eau,Wasser,agua,acqua,água
+2,noun,way,chemin,Weg,camino,via,caminho
+2,noun,wood,bois,Holz,madera,legno,madeira
+2,verb,boil,faire bouillir,kochen,hervir,bollire,ferver
+2,verb,book,réserver,buchen,reservar,prenotare,reservar
+2,verb,camp,camper,zelten,acampar,campeggiare,acampar
+2,verb,fly,voler,fliegen,volar,volare,voar
+2,verb,grow,cultiver,wachsen,crecer,crescere,crescer
+2,verb,snow,neiger,schneien,nevar,nevicare,nevar
+2,verb,stay,rester,bleiben,quedarse,rimanere,ficar
+2,verb,stop,arrêter,stoppen,parar,fermare,parar
+2,verb,take,prendre,nehmen,tomar,prendere,levar
+3,adjective,calm,calme,ruhig,calmo,calmo,calmo
+3,adjective,clear,clair,klar,claro,chiaro,claro
+3,adjective,cool,frais,kühl,fresco,fresco,fresco
+3,adjective,environmental,environnemental,umweltfreundlich,ambiental,ambientale,ambiental
+3,adjective,fine,bien,gut,bien,bene,bem
+3,adjective,freezing,gelé,eiskalt,helado,gelido,gelado
+3,adjective,frozen,gelé,gefroren,congelado,congelato,congelado
+3,adjective,green,vert,grün,verde,verde,verde
+3,adjective,humid,humide,feucht,húmedo,umido,úmido
+3,adjective,icy,glacial,eisig,helado,ghiacciato,gelado
+3,adjective,mild,doux,mild,suave,mite,suave
+3,adjective,rainy,pluvieux,regnerisch,lluvioso,piovoso,chuvoso
+3,adjective,recycled,recyclé,recycelt,reciclado,riciclato,reciclado
+3,adjective,sandy,sableux,sandig,arenoso,sabbioso,arenoso
+3,adverb,abroad,à l'étranger,im Ausland,en el extranjero,all'estero,no estrangeiro
+3,adverb,on,allumé,an,encendido,acceso,ligado
+3,noun,backpacker,routard,Backpacker,mochilero,viaggiatore zaino in spalla,mochileiro
+3,noun,backpacking,randonnée,Backpacking,senderismo,escursionismo,caminhada
+3,noun,baggage,bagage,Gepäck,equipaje,bagaglio,bagagem
+3,noun,bay,baie,Bucht,bahía,baia,baía
+3,noun,booking,réservation,Buchung,reserva,prenotazione,reserva
+3,noun,boot,botte,Stiefel,bota,stivale,bota
+3,noun,bottom,bas,unten,fondo,fondo,fundo
+3,noun,brake,freio,Bremse,freno,freno,freio
+3,noun,branch,branche,Zweig,rama,ramo,ramo
+3,noun,breeze,brisé,Brise,brisa,brezza,brisa
+3,noun,cab,taxi,Taxi,taxi,taxi,táxi
+3,noun,cabin,cabine,Kabine,cabina,cabina,cabine
+3,noun,camp,camp,Campamento,campo,campeggio,acampamento
+3,noun,campsite,camping,Campingplatz,camping,campeggio,parque de campismo
+3,noun,cave,grotte,Höhle,cueva,grotta,caverna
+3,noun,check-in,enregistrement,Check-in,facturación,check-in,check-in
+3,noun,cliff,falaise,Klippe,acantilado,scogliera,penhasco
+3,noun,climate,climat,Klima,clima,clima,clima
+3,noun,coast,côte,Küste,costa,costa,costa
+3,noun,continent,continent,Kontinent,continente,continente,continente
+3,noun,crash,accident,Unfall,accidente,incidente,acidente
+3,noun,crossing,croisement,Kreuzung,cruce,incrocio,cruzamento
+3,noun,cruise,croisière,Kreuzfahrt,crucero,crociera,cruzeiro
+3,noun,customs,douane,Zoll,aduanas,dogana,alfândega
+3,noun,cyclist,cycliste,Radfahrer,ciclista,ciclista,ciclista
+3,noun,departure,départ,Abfahrt,salida,partenza,partida
+3,noun,destination,destination,Ziel,destino,destino,destino
+3,noun,district,quartier,Bezirk,distrito,quartiere,distrito
+3,noun,earth,terre,Erde,tierra,terra,terra
+3,noun,entry,entrée,Eingang,entrada,entrata,entrada
+3,noun,expedition,expédition,Expedition,expedición,spedizione,expedição
+3,noun,ferry,ferry,Fähre,ferry,traghetto,ferry
+3,noun,flood,inondation,Flut,inundación,inondazione,inundação
+3,noun,forecast,prévision,Vorhersage,pronóstico,previsione,previsão
+3,noun,garage,garage,Garage,garaje,garage,garagem
+3,noun,gate,porte,Tor,puerta,porta,portão
+3,noun,harbour,port,Hafen,puerto,porto,porto
+3,noun,heat,chaleur,Hitze,calor,calore,calor
+3,noun,iron,fer,Eisen,hierro,ferro,ferro
+3,noun,jet,jet,Jet,jet,jet,jet
+3,noun,jungle,jungle,Dschungel,jungla,giungla,jungle
+3,noun,land,terre,Land,tierra,terra,terra
+3,noun,landscape,paysage,Landschaft,paisaje,paesaggio,paisagem
+3,noun,leaf,feuille,Blatt,hoja,foglia,folha
+3,noun,life,vie,Leben,vida,vita,vida
+3,noun,lightning,foudre,Blitz,relámpago,fulmine,relâmpago
+3,noun,line,ligne,Linie,línea,linea,linha
+3,noun,lorry,camion,Lkw,camión,camion,camião
+3,noun,metal,métal,Metall,metal,metallo,metal
+3,noun,ocean,océan,Ozean,océano,oceano,oceano
+3,noun,oil,huile,Öl,aceite,olio,óleo
+3,noun,parking,parking,Parkplatz,aparcamiento,parcheggio,estacionamento
+3,noun,pass,passer,passen,pasar,passare,passar
+3,noun,pavement,trottoir,Gehweg,acera,marciapiede,calcada
+3,noun,peak,pic,Gipfel,pico,cima,pico
+3,noun,planet,planète,Planet,planeta,pianeta,planeta
+3,noun,pocket,poche,Tasche,bolsillo,tasca,bolso
+3,noun,pollution,pollution,Verschmutzung,contaminación,inquinamento,poluição
+3,noun,port,port,Hafen,puerto,porto,porto
+3,noun,public transport,transport en commun,öffentlicher Verkehr,transporte público,trasporto pubblico,transporte público
+3,noun,rail,rail,Schiene,riel,rotaia,trilho
+3,noun,rainforest,forêt tropicale,Regenwald,selva tropicale,foresta pluviale,floresta tropical
+3,noun,region,région,Region,región,regione,região
+3,noun,reservation,réservation,Reservierung,reserva,prenotazione,reserva
+3,noun,resort,station,Badeort,complejo turístico,stazione turistica,estância
+3,noun,return,retour,Rückkehr,regreso,ritorno,retorno
+3,noun,ride,balade,Fahrt,paseo,giro,passeio
+3,noun,rock,rocher,Felsen,roca,roccia,rocha
+3,noun,rose,rose,Rose,rosa,rosa,rosa
+3,noun,route,route,Route,ruta,rotta,rota
+3,noun,sand,sable,Sand,arena,sabbia,areia
+3,noun,scenery,paysage,Landschaft,paisaje,paesaggio,paisagem
+3,noun,season,saison,Jahreszeit,temporada,stagione,estação
+3,noun,shade,ombre,Schatten,sombra,ombra,sombra
+3,noun,shore,rive,Ufer,orilla,riva,costa
+3,noun,shower,douche,Dusche,ducha,doccia,chuveiro
+3,noun,single,unique,einzel,solo,singolo,único
+3,noun,souvenir,souvenir,Andenken,recuerdo,ricordo,lembrança
+3,noun,space,espace,Raum,espacio,spazio,espaço
+3,noun,stay,séjour,Aufenthalt,estancia,soggiorno,estadia
+3,noun,stone,pierre,Stein,piedra,pietra,pedra
+3,noun,stream,ruisseau,Bach,arroyo,ruscello,riacho
+3,noun,sunrise,lever du soleil,Sonnenaufgang,amanecer,alba,nascer do sol
+3,noun,sunset,coucher de soleil,Sonnenuntergang,atardecer,tramonto,pôr do sol
+3,noun,sunshine,ensoleillement,Sonnenschein,luz del sol,lucentezza do sol,brilho do sol
+3,noun,tent,tente,Zelt,tienda,tenda,barraca
+3,noun,the seaside,le bord de mer,die Küste,la orilla del mar,il mare,o litoral
+3,noun,thunder,tonnerre,Donner,trueno,tuono,trovão
+3,noun,timetable,horaire,Fahrplan,horario,orario,horário
+3,noun,tourism,tourisme,Tourismus,turismo,turismo,turismo
+3,noun,track,piste,Spur,pista,pista,trilho
+3,noun,traffic jam,embouteillage,Stau,atasco,ingorgo,engarrafamento
+3,noun,travel,voyage,Reise,viaje,viaggio,viagem
+3,noun,traveller,voyageur,Reisender,viajero,viaggiatore,viajante
+3,noun,truck,camion,Lkw,camión,camion,camião
+3,noun,tunnel,tunnel,Tunnel,túnel,tunnel,túnel
+3,noun,turning,tournant,Wendung,giro,curva,curva
+3,noun,valley,vallée,Tal,valle,valle,vale
+3,noun,van,camionnette,Van,furgoneta,furgone,furgão
+3,noun,vehicle,véhicule,Fahrzeug,vehículo,veicolo,veículo
+3,noun,waterfall,cascade,Wasserfall,cascata,cascata,cachoeira
+3,noun,wave,vague,Welle,ola,onda,onda
+3,noun,weather forecast,prévision météo,Wettervorhersage,pronóstico del tiempo,previsioni del tempo,previsão do tempo
+3,noun,windscreen,pare-brise,Windschutzscheibe,parabrisas,parabrezza,para-brisa
+3,verb,blow,souffler,blasen,soplar,soffiare,soprar
+3,verb,board,monter à bord,an Bord gehen,embarcar,salire a bordo,embarcar
+3,verb,depart,partir,abfahren,partir,partire,partir
+3,verb,flood,inonder,überfluten,inundar,inondare,inundar
+3,verb,freeze,geler,gefrieren,congelar,congelare,congelar
+3,verb,go,aller,gehen,ir,andare,ir
+3,verb,land,atterrir,landen,aterrizar,atterrare,aterrissar
+3,verb,pour,verser,gießen,verter,versare,despejar
+3,verb,reach,atteindre,erreichen,alcanzar,raggiungere,alcançar
+3,verb,rise,monter,steigen,subir,salire,subir
+3,verb,set,fixer,setzen,establecer,impostare,definir
+4,adjective,boiling,bouillant,kochend,hirviendo,bollente,fervente
+4,adjective,chemical,chimique,chemisch,químico,chimico,químico
+4,adjective,coastal,côtier,küstennah,costero,costiero,costeiro
+4,adjective,damp,humide,feucht,húmedo,umido,úmido
+4,adjective,ecological,écologique,ökologisch,ecológico,ecologico,ecológico
+4,adjective,environmentally friendly,respectueux de l'environnement,umweltfreundlich,respetuoso con el medio ambiente,rispettoso dell'ambiente,ambientalmente amigável
+4,adjective,global,mondial,global,global,globale,global
+4,adjective,misty,brumeux,neblig,brumoso,nebbioso,nebuloso
+4,adjective,organic,biologique,biologisch,orgánico,biologico,orgânico
+4,adjective,regional,régional,regional,regional,regionale,regional
+4,adjective,rough,rugueux,rau,áspero,ruvido,áspero
+4,adjective,rural,rural,ländlich,rural,rurale,rural
+4,adjective,scheduled,prévu,geplant,programado,pianificato,programado
+4,adjective,solar,solaire,Solar,solar,solare,solar
+4,adjective,stormy,orageux,stürmisch,tormentoso,tempestoso,tempestuoso
+4,adjective,tropical,tropical,tropisch,tropical,tropical,tropical
+4,adjective,underground,souterrain,unterirdisch,subterráneo,sotterraneo,subterrâneo
+4,adjective,worldwide,mondial,weltweit,mundial,mondiale,mundial
+4,adverb,ecologically,écologiquement,ökologisch,ecológicamente,ecologicamente,ecologicamente
+4,adverb,environmentally,environnementalement,umweltfreundlich,ambientalmente,ambientalmente,ambientalmente
+4,adverb,globally,mondialement,weltweit,globalmente,globalmente,globalmente
+4,adverb,in,dans,in,en,in,em
+4,noun,acid,acide,Säure,ácido,acido,ácido
+4,noun,aircraft,avion,Flugzeug,avión,aereo,avião
+4,noun,aluminium,aluminium,Aluminium,aluminio,alluminio,alumínio
+4,noun,approach,approche,Ansatz,enfoque,approccio,abordagem
+4,noun,atom,atome,Atom,átomo,atomo,átomo
+4,noun,bank,banque,Bank,banco,banca,banco
+4,noun,berry,baie,Beere,baya,bacca,baga
+4,noun,bumper,pare-chocs,Stoßstange,parachoques,paraurti,para-choque
+4,noun,bush,buisson,Busch,arbusto,cespuglio,arbusto
+4,noun,captain,capitaine,Kapitän,capitán,capitano,capitão
+4,noun,carbon,carbone,Kohlenstoff,carbono,carbonio,carbono
+4,noun,carbon dioxide,dioxyde de carbone,Kohlendioxid,dióxido de carbono,diossido di carbonio,dióxido de carbono
+4,noun,carbon footprint,empreinte carbone,Kohlenstoff-Fußabdruck,huella de carbono,impronta di carbonio,pegada de carbono
+4,noun,carbon monoxide,monoxyde de carbone,Kohlenmonoxid,monóxido de carbono,monossido di carbonio,monóxido de carbono
+4,noun,chemical,produit chimique,Chemikalie,producto químico,prodotto chimico,produto químico
+4,noun,climate change,changement climatique,Klimawandel,cambio climático,cambiamento climatico,mudança climática
+4,noun,cloud,nuage,Wolke,nube,nuvola,nuvem
+4,noun,connection,connexion,Verbindung,conexión,connessione,conexão
+4,noun,conservation,conservation,Erhaltung,conservación,conservazione,conservação
+4,noun,copper,cuivre,Kupfer,cobre,rame,cobre
+4,noun,crossroads,carrefour,Kreuzung,cruce,incrocio,cruzamento
+4,noun,cycle,cycle,Zyklus,ciclo,ciclo,ciclo
+4,noun,dawn,aube,Morgendämmerung,amanecer,alba,amanhecer
+4,noun,daylight,lumière du jour,Tageslicht,luz del día,luce del giorno,luz do dia
+4,noun,deck,pont,Deck,cubierta,pontes,convés
+4,noun,diamond,diamant,Diamant,diamante,diamante,diamante
+4,noun,earthquake,tremblement de terre,Erdbeben,terremoto,terremoto,terremoto
+4,noun,element,élément,Element,elemento,elemento,elemento
+4,noun,evolution,évolution,Evolution,evolución,evoluzione,evolução
+4,noun,frost,gelée,Frost,escarcha,brina,geada
+4,noun,gas,gaz,Gas,gas,gas,gás
+4,noun,gear,engrenage,Gang,engranaje,ingranaggio,engrenagem
+4,noun,global warming,réchauffement climatique,globale Erwärmung,calentamiento global,riscaldamento globale,aquecimento global
+4,noun,ground,sol,Boden,suelo,terreno,solo
+4,noun,harvest,moisson,Ernte,cosecha,raccolto,colheita
+4,noun,hedge,haie,Hecke,seto,siepe,sebe
+4,noun,horn,corne,Horn,cuerno,corno,chifre
+4,noun,immigration,immigration,Einwanderung,inmigración,immigrazione,imigração
+4,noun,jam,confiture,Marmelade,mermelada,marmellata,geleia
+4,noun,landing,atterrissage,Landung,aterrizaje,atterraggio,aterragem
+4,noun,lane,voie,Spur,carril,corsia,faixa
+4,noun,mist,brume,Nebel,niebla,nebbia,neblina
+4,noun,moonlight,clair de lune,Mondlicht,luz de la luna,luna,luar
+4,noun,motorist,automobiliste,Autofahrer,automovilista,automobilista,automobilista
+4,noun,mud,boue,Schlamm,barro,fango,barro
+4,noun,oak,chêne,Eiche,roble,quercia,carvalho
+4,noun,oxygen,oxygène,Sauerstoff,oxígeno,ossigeno,oxigênio
+4,noun,parachute,parachute,Fallschirm,paracaídas,paracadute,paraquedas
+4,noun,pine,pin,Kiefer,pino,pino,pinheiro
+4,noun,pond,étang,Teich,estanque,stagno,lagoa
+4,noun,pool,piscine,Schwimmbecken,piscina,piscina,piscina
+4,noun,rainbow,arc-en-ciel,Regenbogen,arco iris,arcobaleno,arco-íris
+4,noun,range,étendue,Reichweite,rango,gamma,alcance
+4,noun,reserve,réserve,Reserve,reserva,riserva,reserva
+4,noun,rocket,fusée,Rakete,cohete,razzo,foguete
+4,noun,root,racine,Wurzel,raíz,radice,raiz
+4,noun,rubber,caoutchouc,Gummi,caucho,gomma,borracha
+4,noun,rush hour,heure de pointe,Hauptverkehrszeit,hora punta,ora di punta,hora de ponta
+4,noun,seed,graine,Samen,semilla,seme,semente
+4,noun,shell,coquille,Schale,cáscara,conchiglia,casca
+4,noun,skin,peau,Haut,piel,pelle,pele
+4,noun,soil,sol,Boden,suelo,terreno,solo
+4,noun,steam,vapeur,Dampf,vapor,vapore,vapor
+4,noun,steel,acier,Stahl,acero,acciaio,aço
+4,noun,steering wheel,volant,Lenkrad,volante,volante,volante
+4,noun,stopover,escale,Zwischenstopp,escala,scalo,escala
+4,noun,suburb,banlieue,Vorort,suburbio,sobborgo,subúrbio
+4,noun,subway,métro,U-Bahn,metro,metropolitana,metrô
+4,noun,sunlight,lumière du soleil,Sonnenlicht,luz del sol,luz do sol,luz do sol
+4,noun,tide,marée,Gezeiten,marea,marea,maré
+4,noun,tornado,tornade,Tornado,tornado,tornado,tornado
+4,noun,trail,piste,Pfad,sendero,sentiero,trilha
+4,noun,transport,transport,Transport,transporte,trasporto,transporte
+4,noun,trekking,randonnée,Trekking,senderismo,trekking,trekking
+4,noun,trunk,tronc,Stamm,tronco,tronco,tronco
+4,noun,volcano,volcan,Vulkan,volcán,vulcano,vulcão
+4,noun,voyage,voyage,Reise,viaje,viaggio,viagem
+4,noun,warmth,chaleur,Wärme,calor,calore,calor
+4,noun,wing,aile,Flügel,ala,ala,asa
+4,noun,yacht,yacht,Yacht,yate,yacht,iate
+4,verb,carry,porter,tragen,llevar,portare,carregar
+4,verb,cruise,croiser,kreuzen,cruzar,crociera,cruzar
+4,verb,run,courir,laufen,correr,correr,correr
+4,verb,sail,naviguer,segeln,navegar,navigare,navegar
+5,adjective,active,actif,aktiv,activo,attivo,ativo
+5,adjective,bound,lié,gebunden,ligado,legato,ligado
+5,adjective,rocky,rocheux,felsig,rocoso,roccioso,rochoso
+5,adjective,self-catering,autonome,selbstversorgend,autoservicio,autoservizio,autosserviço
+5,adverb,aboard,à bord,an Bord,a bordo,a bordo,a bordo
+5,noun,congestion,embouteillage,Stau,congestión,congestione,congestão
+5,noun,diesel,diesel,Diesel,diesel,diesel,diesel
+5,noun,ecology,écologie,Ökologie,ecología,ecologia,ecologia
+5,noun,habitat,habitat,Habitat,habitat,habitat,habitat
+5,noun,iceberg,iceberg,Eisberg,iceberg,iceberg,iceberg
+5,noun,itinerary,itinéraire,Reiseplan,itinerario,itinerario,itinerário
+5,noun,launch,lancement,Start,lanzamiento,lancio,lançamento
+5,noun,log,journal,Log,registro,registro,registro
+5,noun,palm,palme,Palme,palma,palma,palma
+5,noun,shuttle,navette,Shuttle,lanzadera,navetta,ônibus espacial
+5,noun,state,état,Staat,estado,stato,estado
+5,noun,straw,paille,Stroh,paja,paglia,palha
+5,noun,stretch,étirement,Streckung,estiramiento,stiramento,esticamento
+5,noun,tank,réservoir,Tank,tanque,serbatoio,tanque
+5,noun,tobacco,tabac,Tabak,tabaco,tabacco,tabaco
+5,noun,transportation,transport,Transport,transporte,trasporto,transporte
+5,noun,vacancy,vacance,Stelle vacante,vacante,vacante,vaga
+5,noun,vine,vigne,Weinrebe,vid,vid,videira
+5,verb,commute,faire la navette,pendeln,viajar diariamente,fare il pendolare,viajar diariamente
+5,verb,drop,laisser tomber,fallen lassen,dejar caer,lasciar cader,deixar cair
+5,verb,launch,lancer,starten,lanzar,lanciare,lançar
+5,verb,settle,régler,regeln,resolver,risolvere,resolver
+6,adjective,arid,aride,trocken,árido,arido,árido
+6,adjective,crisp,croustillant,knusprig,crujiente,croccante,crocante
+6,adjective,fertile,fertile,fruchtbar,fértil,fertile,fértil
+6,adjective,torrential,torrentiel,stark regnerisch,torrencial,torrenziale,torrencial
+6,adjective,wild,sauvage,wild,salvaje,selvaggio,selvagem
+6,noun,astronomy,astronomie,Astronomie,astronomía,astronomia,astronomia
+6,noun,bed,lit,Bett,cama,letto,cama
+6,noun,bronze,bronze,Bronze,bronce,bronzo,bronze
+6,noun,carriage,voiture,Wagen,coche,carroza,carruagem
+6,noun,coastline,littoral,Küstenlinie,línea costera,costa,litoral
+6,noun,coral,corail,Koralle,coral,corallo,coral
+6,noun,hail,grêle,Hagel,granizo,grandine,granizo
+6,noun,path,chemin,Pfad,sendero,sentiero,caminho
+6,noun,reverse,inverse,umkehren,reverso,inverso,reverso
+6,noun,tin,étain,Zinn,estaño,stagno,estanho
+6,noun,tractor,tracteur,Traktor,tractor,trattore,trator
+6,noun,traffic,trafic,Verkehr,tráfico,traffico,trânsito
+6,noun,weed,mauvaise herbe,Unkraut,maleza,erbaccia,erva daninha
+6,noun,wilderness,désert,Wildnis,yermo,deserto,deserto
+6,noun,woodland,forêt,Waldland,bosque,bosco,floresta
+6,noun,wreck,épave,Wrack,restos,naufragio,naufrágio
+6,verb,accelerate,accélérer,beschleunigen,acelerar,accelerare,acelerar
+6,verb,break,casser,brechen,romper,rompere,quebrar
+6,verb,divert,détourner,umleiten,desviar,deviare,desviar
+6,verb,erode,éroder,erodieren,erosionar,erodere,erodir
+6,verb,erupt,entrer en éruption,ausbrechen,entrar en erupción,entrare in eruzione,entrar em erupção
+6,verb,hail,grêler,hageln,granizar,grandinare,saraivar
+6,verb,jam,coincer,klemmen,atascar,inceppare,emperrar
+6,verb,reproduce,reproduire,reproduzieren,reproducir,riprodurre,reproduzir
